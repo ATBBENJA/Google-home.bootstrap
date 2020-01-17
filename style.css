@@ -1,0 +1,46 @@
+.center{
+    width: 270px;
+    height: 130px;
+    margin-top: 100px;
+
+
+
+}
+.imgicon{
+    width: 15px;
+    height:15px;
+    margin-left:390px ;
+    margin-top: -75px;
+}
+
+.inpute{
+    width: 550px;
+    height: 50px;
+}
+.go{
+    margin-top: 20px;
+    
+}
+.grid{
+    width: 20px;
+    height: 20px;
+}
+.footerone
+{
+    margin-top: 160px;
+    margin-left: 0px;
+   
+}
+.f2
+{
+  padding-left: 400px;
+} 
+
+}
+.liens{
+ background-color: rgb(228, 228, 228); 
+}
+.bandegris{
+    background-color: rgb(228, 228, 228);
+    padding: 10px;
+}
